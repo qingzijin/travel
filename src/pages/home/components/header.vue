@@ -23,6 +23,7 @@ export default {
             float:left
             .back-icon
                 font-size: .4rem
+                text-align:center
         .header-input
             flex:1
             height: .64rem
